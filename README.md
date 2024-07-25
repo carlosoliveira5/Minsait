@@ -47,3 +47,5 @@ Esse comando é executado para aplicar o plano de execução.
 8️⃣ Passo: Verifique se o Docker e os containers estão funcionando corretamente na VM
       docker ps
       
+9️⃣ Passo: Destrua o que foi provisionado
+      terraform destroy
