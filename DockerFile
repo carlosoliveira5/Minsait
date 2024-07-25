@@ -1,0 +1,5 @@
+# Usar a imagem oficial do WordPress como base
+FROM wordpress:latest
+
+# Expor a porta 80
+EXPOSE 80
